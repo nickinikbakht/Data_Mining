@@ -1,0 +1,652 @@
+age,sex,city,province,country,latitude,longitude,lives_in_Wuhan,outcome
+78,male,Vo Euganeo,Veneto,Italy,45.2977477,11.6583815,,death
+61,female,,,Singapore,1.35346,103.8151,,discharge
+28,male,,,Singapore,1.35346,103.8151,,discharge
+56,female,,,Singapore,1.35346,103.8151,,discharge
+79,female,Mei Hwan Drive,,Singapore,1.353873,103.860478,no,discharge
+26,male,,,Singapore,1.35346,103.8151,no,discharge
+25,male,Fernvale Road,,Singapore,1.393697,103.876135,,discharge
+40,male,Woodlands Crescent,,Singapore,1.4466,103.801742,,discharge
+43,male,Lorong 8 Toa Payoh,,Singapore,1.339832,103.856471,,discharge
+29,male,Mei Ling Street,,Singapore,1.2934976,103.803003,,discharge
+71,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+68,female,Cremona,Lombardia,Italy,45.22089,9.994373,,death
+35,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+36,male,Cheongwon,North Chungcheong,South Korea,36.5874154,127.47615,,discharge
+32,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+30,female,Hougang Street 91,,Singapore,1.374872,103.886403,no,discharge
+41,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+58,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+38,male,Ng Teng Fong General Hospital,,Singapore,1.3337502,103.743203,no,discharge
+88,male,,,San Marino,43.93907,12.461,,death
+22,female,,Jeju,South Korea,33.384640000000005,126.5551,,discharge
+55,female,Brisbane,Queensland,Australia,-27.4678,153.0281,,discharge
+12,male,KK Women's and Children's Hospital,,Singapore,1.310556,103.846944,no,discharge
+68,female,Tan Tock Seng Hospital,,Singapore,1.321611,103.845944,no,discharge
+54,female,Brisbane,Queensland,Australia,-27.4678,153.0281,,discharge
+57,female,Biritinya,Queensland,Australia,-26.7431,153.1189,,discharge
+24,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+36,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+44,female,Wushan County,Chongqing,China,31.11774,109.8962,,discharged
+95,female,Macquarie Park,New South Wales,Australia,-33.7772,151.1241,,death
+39,female,Xishuangbanna Prefecture,Yunnan,China,21.93139,100.9477,,discharged
+46,male,Wenzhou City,Zhejiang,China,27.90538,120.4404,yes,discharged
+27,male,Xining City,Qinghai,China,36.82615,101.4437,,discharged
+40,male,Narita Airport,Tokyo,Japan,35.76528,140.3856,yes,discharged
+30,male,,Tokyo,Japan,35.71145,139.4468,no,discharged
+32,male,Kathmandu,,Nepal,27.7172,85.324,yes,discharged
+66,male,Singapore General Hospital,,Singapore,1.280224,103.8345,yes,discharged
+40,male,,Johor,Malaysia,2.050613,103.3899,yes,discharged
+51,male,Bangkok,Bangkok Metropolis,Thailand,13.76658,100.5363,,discharged
+50-59,male,Toronto,Ontario,Canada,43.72529,-79.387,no,discharged
+80-89,male,Vancouver,British Columbia,Canada,49.25,-123.1,,death
+42,male,Xining City,Qinghai,China,36.82615,101.4437,yes,discharged
+38,female,Xining City,Qinghai,China,36.82615,101.4437,yes,discharged
+7,male,Xining City,Qinghai,China,36.82615,101.4437,yes,discharged
+33,male,Starnberg,Bavaria,Germany,47.99722,11.34056,no,discharged
+4,female,,,Malaysia,3.797529,109.7073,,discharged
+38,female,Manila,National Capital Region (NCR),Philippines,14.5958,120.9772,yes,discharged
+43,male,Xining City,Qinghai,China,36.82615,101.4437,,discharged
+60,male,Adelaide,South Australia,Australia,-34.9289,138.6011,yes,discharged
+60,male,Paris,Ile-de-France,France,48.85666,2.342325,,death
+60,female,Adelaide,South Australia,Australia,-34.9289,138.6011,yes,discharged
+20,female,"Lixian County, Longnan City",Gansu,China,34.10804,105.0565,no,discharged
+94,female,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,no,discharged
+63,male,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,3.139,101.6869,,discharged
+32,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+60,female,Cebu City,Cebu,Philippines,10.37893,123.7763,,discharged
+80-89,male,Paris,Ile-de-France,France,48.85666,2.342325,,death
+1,female,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,,discharged
+53,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+52,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+51,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+33,female,"Yongdeng County, Lanzhou City",Gansu,China,36.60351,103.2668,,discharged
+79,female,,Hainan,China,19.1987,109.7462,yes,death
+24,female,Adelaide,South Australia,Australia,-34.9289,138.6011,,discharged
+9,male,Grenoble,Auvergne-Rhone-Alpes,France,45.4583907,4.0154074999999985,no,discharged
+30,female,Paris,Ile-de-France,France,48.85666,2.342325,yes,Discharged
+31,male,Paris,Ile-de-France,France,48.85666,2.342325,yes,Discharged
+60-69,female,Seattle,Washington,United States,47.60972,-122.333,,not hospitalized
+20-29,female,London,Ontario,Canada,42.983611,-81.24972199999998,,recovered
+27,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,recovered
+52,female,East Coast Demerara,,Guyana,6.750017999999999,-58.077146,,death
+50-59,male,Snohomish County,Washington,United States,48.0481751,-121.69579,,recovered
+40-49,female,Seattle,Washington,United States,47.60972,-122.333,,recovering at home 03.03.2020
+46,male,,South Jeolla,South Korea,34.86927,126.9017,,released from quarantine
+70-79,male,,Wakayama Prefecture,Japan,33.91287,135.5052,,severe
+52,female,Xi'an City,Shaanxi,China,34.10727,108.7872,yes,stable
+47,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+54,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+50,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+66,male,Bourbon County,Kentucky,United States,38.2069757,-84.217135,,death
+50,male,Xi'an City,Shaanxi,China,34.10727,108.7872,yes,stable
+35,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+37,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+24,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+50,female,Baoji City,Shaanxi,China,34.38244,107.2001,,stable
+76,female,Tongchuan City,Shaanxi,China,35.19603,109.0307,,stable
+38,male,Weinan City,Shaanxi,China,34.95553,109.8585,yes,stable
+47,male,Ankang City,Shaanxi,China,32.76183,108.9258,yes,stable
+65,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+80-89,male,Shiriuchi,Hokkaido,Japan,41.598998,140.340738,,dead
+21,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+64,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+63,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+53,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+39,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+71,male,Baoji City,Shaanxi,China,34.38244,107.2001,,stable
+45,female,Baoji City,Shaanxi,China,34.38244,107.2001,,stable
+27,female,Tongchuan City,Shaanxi,China,35.19603,109.0307,,stable
+42,male,Hanzhong City,Shaanxi,China,33.0928,107.1014,,stable
+25,male,Shangluo City,Shaanxi,China,33.6493,109.9016,,stable
+87,male,Tongren City,Guizhou,China,27.973740000000006,108.5408,,stable
+27,male,"Tianzhu County, Qiandongnan Prefecture",Guizhou,China,26.92336,109.2523,,stable
+4,female,Guiyang City,Guizhou,China,26.84311,106.7064,no,stable
+50,female,Guiyang City,Guizhou,China,26.84311,106.7064,,stable
+39,female,,Guizhou,China,26.82942,106.8782,yes,stable
+2,male,"Huaxi District, Guiyang City",Guizhou,China,26.3924,106.6603,,stable
+67,female,Quarry Bay,Hong Kong,China,22.2859106,114.206868,,stable
+37,male,Wan Chai,Hong Kong,China,22.2773596,114.165248,,stable
+39,male,Hong Kong,Hong Kong,China,22.38074,114.1324,yes,died
+44,male,Manila,National Capital Region (NCR),Philippines,14.5958,120.9772,yes,died
+70-79,male,King County,Washington,United States,47.4913321,-121.80364,,died
+80-89,female,Seattle,Washington,United States,47.60972,-122.333,,died
+70,male,,Tokyo,Japan,35.71145,139.4468,,stable
+50-59,female,,Tokyo,Japan,35.71145,139.4468,,stable
+40-49,female,,Osaka,Japan,34.62168,135.5076,no,Symptoms only improved with cough. Currently hospitalized for follow-up.
+50-59,male,,Hokkaido,Japan,43.402,142.5571,,treated in an intensive care unit (14.02.2020)
+50-59,male,Seattle,Washington,United States,47.60972,-122.333,,died
+70-79,male,King County,Washington,United States,47.4913321,-121.80364,,died
+70-79,female,King County,Washington,United States,47.4913321,-121.80364,,died
+82,female,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,,death
+50-59,male,King County,Washington,United States,47.4913321,-121.80364,,died
+70-79,female,King County,Washington,United States,47.4913321,-121.80364,,died
+80-89,female,King County,Washington,United States,47.4913321,-121.80364,,died
+70-79,male,King County,Washington,United States,47.4913321,-121.80364,,died
+90-99,female,King County,Washington,United States,47.4913321,-121.80364,,died
+80-89,female,King County,Washington,United States,47.4913321,-121.80364,,died
+80-89,male,King County,Washington,United States,47.4913321,-121.80364,,died
+90-99,male,King County,Washington,United States,47.4913321,-121.80364,,died
+80-89,female,King County,Washington,United States,47.4913321,-121.80364,,died
+70-79,female,King County,Washington,United States,47.4913321,-121.80364,,died
+73,female,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,no,death
+92,male,Morbihan,Brittany,France,47.84692,-2.81206,,died
+29,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,no,discharge
+61,male,Sao Paulo,Sao Paulo,Brazil,-23.57144,-46.628288,no,discharged
+32,male,Sao Paulo,Sao Paulo,Brazil,-23.57144,-46.628288,no,discharged
+55,male,Gimpo Airport,,South Korea,37.558056,126.790556,,discharge
+28,male,,Geneva,Switzerland,46.221052,6.1335362999999985,,recovered
+49,male,,Vaud,Switzerland,46.5724559,6.65884868,,recovered
+66,male,Nha Trang,Khanh Hoa,Vietnam,12.2388,109.1967,no,discharge
+28,male,Nha Trang,Khanh Hoa,Vietnam,12.2388,109.1967,no,discharge
+56,female,,,Singapore,1.35346,103.8151,yes,discharge
+44,male,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+56,male,Pasir Ris Grove,,Singapore,1.371358,103.9453,yes,discharge
+42,female,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+80-89,female,,Kanagawa Prefecture,Japan,35.41557,139.339,,death
+29,male,,Vinh Phuc,Vietnam,21.3,105.6,,discharge
+23,female,,Vinh Phuc,Vietnam,21.3,105.6,,discharge
+25,female,Thanh Hoa,Thanh Hoa,Vietnam,19.806749,105.784921,,discharge
+31,male,Jurong East,,Singapore,1.337269,103.737305,,discharge
+47,female,Changi Airport,,Singapore,1.322355,103.847241,,discharge
+38,male,Nathan Road,,Singapore,1.296483,103.825779,,discharge
+73,male,Ho Chi Minh City,,Vietnam,10.77845,106.693904,no,discharge
+60-69,male,,Taiwan,,23.75947,120.9559,,death
+25,female,"Hotel Ton Dan Street, Nha Trang",Khanh Hoa,Vietnam,12.237763,109.193574,no,discharge
+31,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+29,female,Binh Xuyen District,Vinh Phuc,Vietnam,21.318168,105.6661,,discharge
+42,female,Chonnam National University Hospital,,South Korea,35.142077,126.921668,,discharge
+30,male,"Minh Quang commune, Tam Dao District",Vinh Phuc,Vietnam,21.407,105.654,,discharge
+28,female,Singapore General Hospital,,Singapore,1.280224,103.8345,,discharge
+48,female,Hougang Street 61,,Singapore,1.374872,103.886403,,discharge
+44,female,Singapore General Hospital,,Singapore,1.280224,103.8345,,discharge
+42,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,,discharge
+8,male,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+49,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,,discharge
+16,female,Binh Xuyen District,Vinh Phuc,Vietnam,21.318168,105.6661,,discharge
+37,female,Gold Coast,Queensland,Australia,-28.0167,153.4,,discharge
+37,male,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+20,female,,Gwangju,South Korea,35.13445,126.8551,,discharge
+53,male,Changi General Hospital,,Singapore,1.3403200000000002,103.94957,no,discharge
+42,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+39,female,Sengkang General Hospital,,Singapore,1.3954950000000002,103.8934,no,discharge
+29,male,"Luzzara, Reggio Emilia",Emilia-Romagna,Italy,44.95971,10.68922,no,discharge
+29,female,"Thien Ke commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.3273973,105.63005,no,discharge
+55,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,no,discharge
+0.25,female,"Quat Luu commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.2847242,105.619479,no,discharge
+50,male,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,,discharge
+54,male,Sengkang General Hospital,,Singapore,1.3954950000000002,103.8934,,discharge
+37,male,Khoo Teck Puat Hospital,,Singapore,1.424566,103.838157,,discharge
+35,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+39,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+77,female,Codogno,Lombardia,Italy,45.1611,9.701432,,death
+34,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+46,male,National University Hospital,,Singapore,1.295083,103.782833,no,discharge
+37,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+54,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+30,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+55,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+61,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+51,female,Ang Mo Kio Avenue 3,,Singapore,1.368968,103.857296,no,discharge
+57,male,Jurong West Street 64,,Singapore,1.341101,103.703948,no,discharge
+44,female,Tanjong Pagar Road,,Singapore,1.276542,103.843443,,discharge
+70,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+76,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+72,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+79,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+55,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+87,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+66,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+58,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+66,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+78,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+65,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+67,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+58,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+67,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+82,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+85,female,Wuhan City,Hubei,China,30.62506,114.3421,,died
+69,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+36,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+73,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+70,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+81,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+32,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,discharged
+49,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,discharged
+65,female,"Yuan'an County, Yichang City",Hubei,China,31.17298,111.5727,no,died
+15-88,female,Wuhan City,Hubei,China,30.62506,114.3421,,died
+66,male,Wuhan City,Hubei,China,30.62506,114.3421,,died
+48,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+89,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+61,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+69,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+89,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+75,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+82,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+66,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+81,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+82,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+65,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+80,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+86,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+70,female,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+84,male,Wuhan City,Hubei,China,30.62506,114.3421,yes,died
+36,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+51,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+63,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+57,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+63,female,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+63,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Dead
+62,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+52,female,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+56,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+27,female,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+69,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+57,female,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+54,male,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+52,female,Niamey,Niamey Capital District,Niger,13.511667,2.125278,,Alive
+62,male,Blida,Blida,Algeria,36.49228,2.919713,,Dead
+78,female,Mascara,Mascara,Algeria,35.4,0.13333299999999998,,Recovered
+54,female,Mascara,Mascara,Algeria,35.4,0.13333299999999998,,Recovered
+84,female,Blida,Blida,Algeria,36.49228,2.919713,,Dead
+77,female,Tizi Ouzou,Tizi Ouzou,Algeria,36.716667,4.05,,Dead
+42,male,Bejaia,Bejaia,Algeria,36.75,5.066667,,Dead
+85,male,Khenchela,Khenchela,Algeria,35.416667,7.133333,,Dead
+35,male,Accra,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+56,male,Accra,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+59,female,Kumasi,Ashanti Region,Ghana,6.666667,-1.616667,,Under treatment
+61,male,Kumasi,Ashanti Region,Ghana,6.666667,-1.616667,,Under treatment
+29,female,Accra,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+34,female,Accra,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+53,male,Tema,Greater Accra Region,Ghana,5.666667,0.0,,Under treatment
+41,male,Accra,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+36,male,Accra,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+55,female,,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+84,female,,Greater Accra Region,Ghana,5.55,-0.2,,Under treatment
+27,male,,Ashanti Region,Ghana,6.666667,-1.616667,,Under treatment
+71,male,Numuyel,,Gambia,13.276764000000002,-14.294903,,Recovered
+53,male,Banjul,,Gambia,13.453056,-16.5775,,Receiving Treatment
+70,male,Banjul,,Gambia,13.453056,-16.5775,,Deceased
+50,male,Harare,Harare,Zimbabwe,-17.85,31.05,,Stable
+24,female,Harare,Harare,Zimbabwe,-17.85,31.05,,Stable
+79,male,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Died
+35,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+28,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+33,female,Dire Dawa,Dire Dawa,Ethiopia,9.6,41.866667,,stable condition
+56,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,dead
+30,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+30,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+29,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+34,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+35,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+26,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+60,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+45,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+27,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+30,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+65,female,Dukem,Oromia,Ethiopia,8.8,38.9,,critical condition
+0.75,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+36,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+33,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+38,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+25,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+25,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+19,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+30,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+38,male,Victoria Falls,Matabeleland North,Zimbabwe,-17.933332999999994,25.833333,,Stable
+30,male,Harare,Harare,Zimbabwe,-17.85,31.05,,Died
+52,male,Harare,Harare,Zimbabwe,-17.85,31.05,,Recovered
+24,female,Harare,Harare,Zimbabwe,-17.85,31.05,,Stable
+30,male,Harare,Harare,Zimbabwe,-17.85,31.05,,Stable
+40,female,Harare,Harare,Zimbabwe,-17.85,31.05,,Stable
+24,female,Harare,Harare,Zimbabwe,-17.85,31.05,,Stable
+53,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+34,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+52,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+79,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+43,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+30,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+24,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+21,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+32,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+76,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+34,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+39,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+14,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+61,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+22,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+52,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+52,male,Bahirdar,Amhara,Ethiopia,11.6,37.383333,,stable condition
+23,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+42,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+40,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+13,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+73,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+19,male,Dire Dawa,Dire Dawa,Ethiopia,9.6,41.866667,,stable condition
+20,male,Dire Dawa,Dire Dawa,Ethiopia,9.6,41.866667,,stable condition
+19,male,Dire Dawa,Dire Dawa,Ethiopia,9.6,41.866667,,stable condition
+38,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+62,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+52,female,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+19,male,Addis Ababa,Addis Ababa,Ethiopia,9.03,38.74,,stable condition
+4,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+10,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+34,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+16,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+52,female,Bulawayo,Bulawayo,Zimbabwe,-20.17,28.58,,Stable
+29,female,"Thien Ke commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.3273973,105.63005,no,discharge
+55,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,no,discharge
+0.25,female,"Quat Luu commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.2847242,105.619479,no,discharge
+50,male,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,,discharge
+53,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+52,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+51,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+54,male,Sengkang General Hospital,,Singapore,1.3954950000000002,103.8934,,discharge
+37,male,Khoo Teck Puat Hospital,,Singapore,1.424566,103.838157,,discharge
+35,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+39,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+34,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+46,male,National University Hospital,,Singapore,1.295083,103.782833,no,discharge
+37,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+80-89,female,,Kanagawa Prefecture,Japan,35.41557,139.339,,death
+54,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+30,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+55,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+50-59,male,,Hokkaido,Japan,43.402,142.5571,,treated in an intensive care unit (14.02.2020)
+61,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+51,female,Ang Mo Kio Avenue 3,,Singapore,1.368968,103.857296,no,discharge
+57,male,Jurong West Street 64,,Singapore,1.341101,103.703948,no,discharge
+44,female,Tanjong Pagar Road,,Singapore,1.276542,103.843443,,discharge
+61,female,,,Singapore,1.35346,103.8151,,discharge
+28,male,,,Singapore,1.35346,103.8151,,discharge
+56,female,,,Singapore,1.35346,103.8151,,discharge
+70,male,,Tokyo,Japan,35.71145,139.4468,,stable
+50-59,female,,Tokyo,Japan,35.71145,139.4468,,stable
+70-79,male,,Wakayama Prefecture,Japan,33.91287,135.5052,,severe
+79,female,Mei Hwan Drive,,Singapore,1.353873,103.860478,no,discharge
+26,male,,,Singapore,1.35346,103.8151,no,discharge
+25,male,Fernvale Road,,Singapore,1.393697,103.876135,,discharge
+40,male,Woodlands Crescent,,Singapore,1.4466,103.801742,,discharge
+60-69,male,,Taiwan,,23.75947,120.9559,,death
+43,male,Lorong 8 Toa Payoh,,Singapore,1.339832,103.856471,,discharge
+29,male,Mei Ling Street,,Singapore,1.2934976,103.803003,,discharge
+71,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+35,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+36,male,Cheongwon,North Chungcheong,South Korea,36.5874154,127.47615,,discharge
+46,male,,South Jeolla,South Korea,34.86927,126.9017,,released from quarantine
+80-89,male,Shiriuchi,Hokkaido,Japan,41.598998,140.340738,,dead
+32,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+30,female,Hougang Street 91,,Singapore,1.374872,103.886403,no,discharge
+41,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+33,female,"Yongdeng County, Lanzhou City",Gansu,China,36.60351,103.2668,,discharged
+24,female,Adelaide,South Australia,Australia,-34.9289,138.6011,,discharged
+58,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+38,male,Ng Teng Fong General Hospital,,Singapore,1.3337502,103.743203,no,discharge
+22,female,,Jeju,South Korea,33.384640000000005,126.5551,,discharge
+55,female,Brisbane,Queensland,Australia,-27.4678,153.0281,,discharge
+42,male,Xining City,Qinghai,China,36.82615,101.4437,yes,discharged
+38,female,Xining City,Qinghai,China,36.82615,101.4437,yes,discharged
+7,male,Xining City,Qinghai,China,36.82615,101.4437,yes,discharged
+12,male,KK Women's and Children's Hospital,,Singapore,1.310556,103.846944,no,discharge
+95,female,Macquarie Park,New South Wales,Australia,-33.7772,151.1241,,death
+79,female,,Hainan,China,19.1987,109.7462,yes,death
+68,female,Tan Tock Seng Hospital,,Singapore,1.321611,103.845944,no,discharge
+54,female,Brisbane,Queensland,Australia,-27.4678,153.0281,,discharge
+57,female,Biritinya,Queensland,Australia,-26.7431,153.1189,,discharge
+24,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+36,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+82,female,"Chengguan District, Lanzhou City",Gansu,China,36.07809,103.8756,,death
+56,female,,,Singapore,1.35346,103.8151,yes,discharge
+29,male,Fangchenggang City,Guangxi,China,21.88401,107.9967,no,discharge
+38,female,Manila,Metro Manila,Philippines,14.5958,120.9772,,recovered
+44,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+60,female,Manila,Metro Manila,Philippines,14.5958,120.9772,,recovered
+48,male,Taguig,Metro Manila,Philippines,14.52,121.05,,recovered
+62,male,Cainta,Rizal,Philippines,14.57,121.12,,died
+59,female,Cainta,Rizal,Philippines,14.57,121.12,,died
+38,male,Makati,Metro Manila,Philippines,14.55,121.03,,recovered
+86,male,Marikina,Metro Manila,Philippines,14.65,121.1,,died
+57,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+72,male,San Juan,Metro Manila,Philippines,14.6,121.03,,recovered
+56,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+34,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+46,male,Makati,Metro Manila,Philippines,14.55,121.03,,recovered
+24,male,Makati,Metro Manila,Philippines,14.55,121.03,,recovered
+70,male,San Juan,Metro Manila,Philippines,14.6,121.03,,recovered
+69,female,San Juan,Metro Manila,Philippines,14.6,121.03,,recovered
+41,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,recovered
+46,female,Pasig,Metro Manila,Philippines,14.575,121.0833,,recovered
+38,male,Imus,Cavite,Philippines,14.4297,120.9367,,recovered
+51,female,San Juan,Metro Manila,Philippines,14.6,121.03,,recovered
+30,female,San Juan,Metro Manila,Philippines,14.6,121.03,,recovered
+31,male,Bais,Negros Oriental,Philippines,9.590661,123.121269,,recovered
+34,male,Libmanan,Camarines Sur,Philippines,13.7,123.07,,recovered
+69,male,Marikina,Metro Manila,Philippines,14.65,121.1,,recovered
+82,female,Marikina,Metro Manila,Philippines,14.65,121.1,,died
+28,female,San Juan,Metro Manila,Philippines,14.6,121.03,,recovered
+67,female,Makati,Metro Manila,Philippines,14.55,121.03,,died
+88,female,Pasig,Metro Manila,Philippines,14.575,121.0833,,died
+64,male,Tayasan,Negros Oriental,Philippines,9.92,123.15,,died
+54,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,died
+75,female,Makati,Metro Manila,Philippines,14.55,121.03,,recovered
+51,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,recovered
+72,male,Batangas,Batangas,Philippines,13.83,121.0,,recovered
+26,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+79,female,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+39,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,died
+65,male,San Ildefonso,Bulacan,Philippines,15.07889,120.94194,,died
+45,female,Makati,Metro Manila,Philippines,14.55,121.03,,recovered
+35,male,Cainta,Rizal,Philippines,14.57,121.12,,recovered
+25,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,recovered
+54,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,recovered
+68,male,Makati,Metro Manila,Philippines,14.55,121.03,,died
+66,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+76,female,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+33,male,San Juan,Metro Manila,Philippines,14.6,121.03,,recovered
+67,male,San Fernando,Pampanga,Philippines,15.03,120.68,,died
+64,male,Lemery,Batangas,Philippines,13.92,120.88,,recovered
+39,male,Manabo,Abra,Philippines,17.43,120.7,,recovered
+44,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,recovered
+41,male,Makati,Metro Manila,Philippines,14.55,121.03,,recovered
+35,male,Caloocan,Metro Manila,Philippines,14.65,120.97,,recovered
+41,male,Tarlac,Tarlac,Philippines,15.48017,120.59794,,recovered
+65,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+76,male,Cainta,Rizal,Philippines,14.57,121.12,,died
+67,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+21,female,Pantukan,Davao de Oro,Philippines,7.15,125.95,,recovered
+13,female,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+73,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+61,female,Makati,Metro Manila,Philippines,14.55,121.03,,died
+86,female,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+55,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+74,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+59,male,Taguig,Metro Manila,Philippines,14.52,121.05,,recovered
+48,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,recovered
+77,male,Taytay,Rizal,Philippines,14.569170000000002,121.1325,,recovered
+34,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+58,male,Marawi,Lanao del Sur,Philippines,8.0,124.3,,died
+32,female,Makati,Metro Manila,Philippines,14.55,121.03,,recovered
+73,female,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+81,male,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+71,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+69,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+30,male,Mandaluyong,Metro Manila,Philippines,14.58,121.03,,recovered
+76,male,Bacoor,Cavite,Philippines,14.462422,120.964453,,died
+68,male,Mandaluyong,Metro Manila,Philippines,14.58,121.03,,recovered
+71,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+60,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+72,female,Meycauayan,Bulacan,Philippines,14.73,120.95,,died
+72,female,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+73,male,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+57,male,Mandaluyong,Metro Manila,Philippines,14.58,121.03,,died
+89,male,San Ildefonso,Bulacan,Philippines,15.07889,120.94194,,died
+67,female,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+60,female,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+56,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+46,male,Antipolo,Rizal,Philippines,14.584244,121.17628899999998,,died
+57,male,Caloocan,Metro Manila,Philippines,14.65,120.97,,died
+74,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+65,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+56,male,Paranaque,Metro Manila,Philippines,14.47,121.02,,died
+56,male,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+80,female,Taytay,Rizal,Philippines,14.569170000000002,121.1325,,died
+35,male,Quezon,Metro Manila,Philippines,14.63,121.03,,recovered
+63,male,Muntinlupa,Metro Manila,Philippines,14.38,121.05,,died
+78,male,Paranaque,Metro Manila,Philippines,14.47,121.02,,died
+63,female,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+71,female,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+80,female,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+74,female,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+62,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+78,female,Makati,Metro Manila,Philippines,14.55,121.03,,died
+57,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+61,female,Pasig,Metro Manila,Philippines,14.575,121.0833,,died
+50,male,Pasig,Metro Manila,Philippines,14.575,121.0833,,died
+79,female,Taguig,Metro Manila,Philippines,14.52,121.05,,died
+79,male,Muntinlupa,Metro Manila,Philippines,14.38,121.05,,died
+60,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+77,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+80,female,Paranaque,Metro Manila,Philippines,14.47,121.02,,died
+75,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+43,male,Paranaque,Metro Manila,Philippines,14.47,121.02,,died
+71,male,Muntinlupa,Metro Manila,Philippines,14.38,121.05,,died
+64,male,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+60,male,Caloocan,Metro Manila,Philippines,14.65,120.97,,died
+78,male,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+67,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+86,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+82,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+74,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+70,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+78,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+83,male,Paranaque,Metro Manila,Philippines,14.47,121.02,,died
+64,female,Manila,Metro Manila,Philippines,14.5958,120.9772,,died
+84,male,Mandaluyong,Metro Manila,Philippines,14.58,121.03,,died
+51,male,San Juan,Metro Manila,Philippines,14.6,121.03,,died
+89,male,Caloocan,Metro Manila,Philippines,14.65,120.97,,died
+69,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+59,male,Davao,Davao del Sur,Philippines,7.07,125.6,,died
+45,male,Davao,Davao del Sur,Philippines,7.07,125.6,,died
+60,male,Muntinlupa,Metro Manila,Philippines,14.38,121.05,,died
+74,male,Quezon,Metro Manila,Philippines,14.63,121.03,,died
+39,male,Hong Kong,Hong Kong,China,22.38074,114.1324,yes,died
+44,male,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+56,male,Pasir Ris Grove,,Singapore,1.371358,103.9453,yes,discharge
+40-49,female,,Osaka,Japan,34.62168,135.5076,no,Symptoms only improved with cough. Currently hospitalized for follow-up.
+4,female,,,Malaysia,3.797529,109.7073,,discharged
+38,female,Manila,National Capital Region (NCR),Philippines,14.5958,120.9772,yes,discharged
+42,female,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+29,male,,Vinh Phuc,Vietnam,21.3,105.6,,discharge
+23,female,,Vinh Phuc,Vietnam,21.3,105.6,,discharge
+25,female,Thanh Hoa,Thanh Hoa,Vietnam,19.806749,105.784921,,discharge
+39,female,Xishuangbanna Prefecture,Yunnan,China,21.93139,100.9477,,discharged
+46,male,Wenzhou City,Zhejiang,China,27.90538,120.4404,yes,discharged
+31,male,Jurong East,,Singapore,1.337269,103.737305,,discharge
+47,female,Changi Airport,,Singapore,1.322355,103.847241,,discharge
+38,male,Nathan Road,,Singapore,1.296483,103.825779,,discharge
+43,male,Xining City,Qinghai,China,36.82615,101.4437,,discharged
+73,male,Ho Chi Minh City,,Vietnam,10.77845,106.693904,no,discharge
+25,female,"Hotel Ton Dan Street, Nha Trang",Khanh Hoa,Vietnam,12.237763,109.193574,no,discharge
+44,male,Manila,National Capital Region (NCR),Philippines,14.5958,120.9772,yes,died
+60,male,Adelaide,South Australia,Australia,-34.9289,138.6011,yes,discharged
+60,female,Adelaide,South Australia,Australia,-34.9289,138.6011,yes,discharged
+31,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharge
+73,female,"Xigu District, Lanzhou City",Gansu,China,36.12968,103.519,no,death
+20,female,"Lixian County, Longnan City",Gansu,China,34.10804,105.0565,no,discharged
+94,female,"Maiji District, Tianshui City",Gansu,China,34.415,106.1453,no,discharged
+29,female,Binh Xuyen District,Vinh Phuc,Vietnam,21.318168,105.6661,,discharge
+52,female,Xi'an City,Shaanxi,China,34.10727,108.7872,yes,stable
+47,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+54,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+50,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+50,male,Xi'an City,Shaanxi,China,34.10727,108.7872,yes,stable
+35,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+37,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+24,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+50,female,Baoji City,Shaanxi,China,34.38244,107.2001,,stable
+76,female,Tongchuan City,Shaanxi,China,35.19603,109.0307,,stable
+38,male,Weinan City,Shaanxi,China,34.95553,109.8585,yes,stable
+47,male,Ankang City,Shaanxi,China,32.76183,108.9258,yes,stable
+63,male,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,3.139,101.6869,,discharged
+42,female,Chonnam National University Hospital,,South Korea,35.142077,126.921668,,discharge
+30,male,"Minh Quang commune, Tam Dao District",Vinh Phuc,Vietnam,21.407,105.654,,discharge
+28,female,Singapore General Hospital,,Singapore,1.280224,103.8345,,discharge
+48,female,Hougang Street 61,,Singapore,1.374872,103.886403,,discharge
+44,female,Singapore General Hospital,,Singapore,1.280224,103.8345,,discharge
+32,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,discharged
+42,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,,discharge
+8,male,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+44,female,Wushan County,Chongqing,China,31.11774,109.8962,,discharged
+49,female,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,21.276162,105.678812,,discharge
+16,female,Binh Xuyen District,Vinh Phuc,Vietnam,21.318168,105.6661,,discharge
+60,female,Cebu City,Cebu,Philippines,10.37893,123.7763,,discharged
+37,female,Gold Coast,Queensland,Australia,-28.0167,153.4,,discharge
+37,male,Gold Coast,Queensland,Australia,-28.0167,153.4,yes,discharge
+27,male,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,,recovered
+27,male,Xining City,Qinghai,China,36.82615,101.4437,,discharged
+20,female,,Gwangju,South Korea,35.13445,126.8551,,discharge
+40,male,Narita Airport,Tokyo,Japan,35.76528,140.3856,yes,discharged
+30,male,,Tokyo,Japan,35.71145,139.4468,no,discharged
+32,male,Kathmandu,,Nepal,27.7172,85.324,yes,discharged
+66,male,Singapore General Hospital,,Singapore,1.280224,103.8345,yes,discharged
+55,male,Gimpo Airport,,South Korea,37.558056,126.790556,,discharge
+66,male,Nha Trang,Khanh Hoa,Vietnam,12.2388,109.1967,no,discharge
+28,male,Nha Trang,Khanh Hoa,Vietnam,12.2388,109.1967,no,discharge
+53,male,Changi General Hospital,,Singapore,1.3403200000000002,103.94957,no,discharge
+42,female,National Centre for Infectious Diseases,,Singapore,1.322098,103.8472,no,discharge
+39,female,Sengkang General Hospital,,Singapore,1.3954950000000002,103.8934,no,discharge
+40,male,,Johor,Malaysia,2.050613,103.3899,yes,discharged
+65,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+21,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+64,female,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+63,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+53,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+39,male,Xi'an City,Shaanxi,China,34.10727,108.7872,,stable
+71,male,Baoji City,Shaanxi,China,34.38244,107.2001,,stable
+45,female,Baoji City,Shaanxi,China,34.38244,107.2001,,stable
+27,female,Tongchuan City,Shaanxi,China,35.19603,109.0307,,stable
+42,male,Hanzhong City,Shaanxi,China,33.0928,107.1014,,stable
+25,male,Shangluo City,Shaanxi,China,33.6493,109.9016,,stable
+51,male,Bangkok,Bangkok Metropolis,Thailand,13.76658,100.5363,,discharged
+1,female,"Huating County, Pingliang City",Gansu,China,35.20198,106.5993,,discharged
+87,male,Tongren City,Guizhou,China,27.973740000000006,108.5408,,stable
+27,male,"Tianzhu County, Qiandongnan Prefecture",Guizhou,China,26.92336,109.2523,,stable
+4,female,Guiyang City,Guizhou,China,26.84311,106.7064,no,stable
+50,female,Guiyang City,Guizhou,China,26.84311,106.7064,,stable
+39,female,,Guizhou,China,26.82942,106.8782,yes,stable
+2,male,"Huaxi District, Guiyang City",Guizhou,China,26.3924,106.6603,,stable
+67,female,Quarry Bay,Hong Kong,China,22.2859106,114.206868,,stable
+37,male,Wan Chai,Hong Kong,China,22.2773596,114.165248,,stable
+20.0,male,Prigoria,Gorj,Romania,45.06667,23.68333,no,discharged
+38.0,female,Timisoara,,Romania,45.75972,21.23,,discharged
+47.0,male,Timisoara,,Romania,45.75972,21.23,no,discharged
+16.0,male,Timisoara,,Romania,45.75972,21.23,no,discharged
+16.0,female,Timisoara,,Romania,45.75972,21.23,no,discharged
+15.0,male,Timisoara,,Romania,45.75972,21.23,no,discharged
+52,female,East Coast Demerara,,Guyana,6.750017999999999,-58.077146,,death
+61,male,Sao Paulo,Sao Paulo,Brazil,-23.57144,-46.628288,no,discharged
+32,male,Sao Paulo,Sao Paulo,Brazil,-23.57144,-46.628288,no,discharged
+70-79,female,King County,Washington,United States,47.4913321,-121.80364,,death
+66,male,Bourbon County,Kentucky,United States,38.2069757,-84.217135,,death
+70-79,male,King County,Washington,United States,47.4913321,-121.80364,,death
+80-89,male,King County,Washington,United States,47.4913321,-121.80364,,death
+80-89,female,King County,Washington,United States,47.4913321,-121.80364,,death
+70-79,female,King County,Washington,United States,47.4913321,-121.80364,,death
+70-79,male,Eddy County,New Mexico,United States,32.4737494,-104.29998,,Death
+80-89,male,Vancouver,British Columbia,Canada,49.25,-123.1,,death
+90-99,male,King County,Washington,United States,47.4913321,-121.80364,,death
+50-59,male,Toronto,Ontario,Canada,43.72529,-79.387,no,discharged
+50-59,male,Seattle,Washington,United States,47.60972,-122.333,,death
+80-89,female,Seattle,Washington,United States,47.60972,-122.333,,death
+70-79,male,King County,Washington,United States,47.4913321,-121.80364,,death
+70-79,female,King County,Washington,United States,47.4913321,-121.80364,,death
+70-79,male,King County,Washington,United States,47.4913321,-121.80364,,death
+50-59,male,King County,Washington,United States,47.4913321,-121.80364,,death
+20-29,female,London,Ontario,Canada,42.983611,-81.24972199999998,,recovered
+80-89,female,King County,Washington,United States,47.4913321,-121.80364,,death
+60-69,female,Seattle,Washington,United States,47.60972,-122.333,,not hospitalized
+80-89,female,King County,Washington,United States,47.4913321,-121.80364,,death
+40-49,female,Seattle,Washington,United States,47.60972,-122.333,,recovering at home 03.03.2020
+80-,female,Chittenden County,Vermont,United States,44.4611235,-73.081581,,death
+90-99,female,King County,Washington,United States,47.4913321,-121.80364,,death
+50-59,male,Snohomish County,Washington,United States,48.0481751,-121.69579,,recovered
