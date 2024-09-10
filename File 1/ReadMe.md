@@ -27,9 +27,7 @@ Handling: Decided on appropriate actions for outliers, such as removal or transf
 
 ### Chi-Square Test
 Purpose: Conducted chi-square tests to examine the independence of categorical variables.
-
-### Results
-Analyzed the results to understand the relationships between different variables.
+Results: Analyzed the results to understand the relationships between different variables.
 
 ### Correlation Analysis
 Examination: Examined the correlations between variables to identify significant relationships.
