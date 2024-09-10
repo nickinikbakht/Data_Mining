@@ -10,29 +10,39 @@ In this section, we have analyzed and modeled four databases. The databases incl
 
 # Overview
 Initial Analysis
-##  Summarization: Provided a comprehensive summary of each dataset, highlighting key statistics and features.
+##  Summarization
+Provided a comprehensive summary of each dataset, highlighting key statistics and features.
 
-## Visualization: Created various plots and charts to visualize the data distribution and identify patterns.
+## Visualization
+Created various plots and charts to visualize the data distribution and identify patterns.
 
-Handling Missing Data
-##  Methods Used: Employed different techniques to handle missing data, including mode, mean, and imputation methods.
+# Handling Missing Data
+##  Methods Used
+Employed different techniques to handle missing data, including mode, mean, and imputation methods.
 
-##  Imputation: Used advanced imputation techniques to fill in missing values, ensuring the integrity of the datasets.
+##  Imputation
+Used advanced imputation techniques to fill in missing values, ensuring the integrity of the datasets.
 
-Normalization
-##  Standardization: Applied normalization techniques to standardize the data, making it suitable for modeling.
+# Normalization
+##  Standardization
+Applied normalization techniques to standardize the data, making it suitable for modeling.
 
-•  Scaling: Scaled the data to ensure all features contribute equally to the model.
+## Scaling
+Scaled the data to ensure all features contribute equally to the model.
 
-Outlier Detection
-•  Identification: Identified outliers using statistical methods and visualization techniques.
+# Outlier Detection
+## Identification
+Identified outliers using statistical methods and visualization techniques.
 
-•  Handling: Decided on appropriate actions for outliers, such as removal or transformation.
+## Handling
+Decided on appropriate actions for outliers, such as removal or transformation.
 
-Chi-Square Test
-•  Purpose: Conducted chi-square tests to examine the independence of categorical variables.
+# Chi-Square Test
+### Purpose
+Conducted chi-square tests to examine the independence of categorical variables.
 
-•  Results: Analyzed the results to understand the relationships between different variables.
+### Results
+Analyzed the results to understand the relationships between different variables.
 
 Correlation Analysis
 •  Examination: Examined the correlations between variables to identify significant relationships.
