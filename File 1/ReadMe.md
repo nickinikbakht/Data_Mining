@@ -19,9 +19,7 @@ Imputation: Used advanced imputation techniques to fill in missing values, ensur
 
 ## Normalization
 Standardization: Applied normalization techniques (like MinMax) to standardize the data, making it suitable for modeling.
-
-## Scaling
-Scaled the data to ensure all features contribute equally to the model.
+Scaling:Scaled the data to ensure all features contribute equally to the model.
 
 ## Outlier Detection
 Identification: Identified outliers using statistical methods and visualization techniques.
@@ -34,8 +32,7 @@ Purpose: Conducted chi-square tests to examine the independence of categorical v
 Analyzed the results to understand the relationships between different variables.
 
 ## Correlation Analysis
-#### Examination
-Examined the correlations between variables to identify significant relationships.
+Examination:Examined the correlations between variables to identify significant relationships.
 
 #### Heatmaps
 Created correlation heatmaps to visualize the strength and direction of relationships.
