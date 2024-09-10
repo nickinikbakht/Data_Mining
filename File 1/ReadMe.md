@@ -32,7 +32,7 @@ Purpose: Conducted chi-square tests to examine the independence of categorical v
 Analyzed the results to understand the relationships between different variables.
 
 ### Correlation Analysis
-Examination:Examined the correlations between variables to identify significant relationships.
+Examination: Examined the correlations between variables to identify significant relationships.
 
 Heatmaps: Created correlation heatmaps to visualize the strength and direction of relationships.
 
@@ -42,7 +42,7 @@ Regression Analysis: House Prices and  Blood Glucose Levels
 - Predicted blood glucose levels in diabetes patients, identifying key predictors.
 
 K-Nearest Neighbors (KNN)
-- Application:Applied KNN for classifying COVID-19 patients into categories such as deceased, recovered, and under treatment.
+- Application: Applied KNN for classifying COVID-19 patients into categories such as deceased, recovered, and under treatment.
 
 ### Performance
 Evaluated the performance of the KNN model and fine-tuned parameters for optimal results.
