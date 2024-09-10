@@ -12,15 +12,15 @@ In this section, we have analyzed and modeled four databases. The databases incl
 Initial Analysis
 ##  Summarization: Provided a comprehensive summary of each dataset, highlighting key statistics and features.
 
-•  Visualization: Created various plots and charts to visualize the data distribution and identify patterns.
+## Visualization: Created various plots and charts to visualize the data distribution and identify patterns.
 
 Handling Missing Data
-•  Methods Used: Employed different techniques to handle missing data, including mode, mean, and imputation methods.
+##  Methods Used: Employed different techniques to handle missing data, including mode, mean, and imputation methods.
 
-•  Imputation: Used advanced imputation techniques to fill in missing values, ensuring the integrity of the datasets.
+##  Imputation: Used advanced imputation techniques to fill in missing values, ensuring the integrity of the datasets.
 
 Normalization
-•  Standardization: Applied normalization techniques to standardize the data, making it suitable for modeling.
+##  Standardization: Applied normalization techniques to standardize the data, making it suitable for modeling.
 
 •  Scaling: Scaled the data to ensure all features contribute equally to the model.
 
